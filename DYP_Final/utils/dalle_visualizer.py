@@ -9,7 +9,7 @@ import streamlit as st
 
 class DalleVisualizer:
     def __init__(self, api_key=None):
-        self.api_key = "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"
+        self.api_key = ""
         self.api_url = "https://api.openai.com/v1/images/generations"
         self.headers = {
             "Authorization": f"Bearer {self.api_key}",
