@@ -41,8 +41,8 @@ Mentora is an AI-powered adaptive learning platform that personalizes educationa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mentora.git
-cd mentora
+git clone https://github.com/yourusername/Deep-Coders.git
+cd Deep-Coders
 ```
 
 2. Install required dependencies:
@@ -58,7 +58,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 4. Run the application:
 ```bash
-streamlit run app.py
+streamlit run DYP_Final/app.py
 ```
 
 ## Usage
