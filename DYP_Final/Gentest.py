@@ -3,7 +3,7 @@ import requests
 import os
 
 # Set your API Key
-openai.api_key = "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"
+openai.api_key = ""
 
 def generate_image(prompt, save_path="generated_image.png"):
     response = openai.images.generate(
