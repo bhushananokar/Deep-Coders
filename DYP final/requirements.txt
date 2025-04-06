@@ -1,0 +1,21 @@
+# Core Python Libraries
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# Database and Data Handling
+sqlite3  # Built-in, but listed for clarity
+
+# AI and Machine Learning
+requests>=2.31.0
+gtts>=2.4.0  # Text-to-Speech
+
+# Optional Visualization Libraries
+plotly>=5.15.0
+
+# Development and Utility
+python-dateutil>=2.8.2
+
+# Required for Quiz and Instruction Features
+chardet>=5.2.0
+openai
+groq
