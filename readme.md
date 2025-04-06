@@ -1,8 +1,7 @@
-# AdaptLearn Pro
+# Mentora
 
-AdaptLearn Pro is an AI-powered adaptive learning platform that personalizes educational content based on individual learning styles and needs. The application uses advanced AI to analyze, adapt, and present content in the most effective way for each user.
+Mentora is an AI-powered adaptive learning platform that personalizes educational content based on individual learning styles and needs. The application uses advanced AI to analyze, adapt, and present content in the most effective way for each user.
 
-![AdaptLearn Pro](https://via.placeholder.com/800x400.png?text=AdaptLearn+Pro)
 
 ## Features
 
@@ -42,8 +41,8 @@ AdaptLearn Pro is an AI-powered adaptive learning platform that personalizes edu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/adaptlearn-pro.git
-cd adaptlearn-pro
+git clone https://github.com/yourusername/mentora.git
+cd mentora
 ```
 
 2. Install required dependencies:
@@ -87,7 +86,7 @@ streamlit run app.py
 
 ## API Keys
 
-AdaptLearn Pro requires two API keys to function:
+Mentora requires two API keys to function:
 
 1. **Groq API Key**: Used for content generation and adaptation
    - Sign up at [groq.com](https://groq.com)
