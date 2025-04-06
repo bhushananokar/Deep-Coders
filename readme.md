@@ -2,6 +2,8 @@
 
 Mentora is an AI-powered adaptive learning platform that personalizes educational content based on individual learning styles and needs. The application uses advanced AI to analyze, adapt, and present content in the most effective way for each user.
 
+📌📌
+(CLICK ON THE GET STARTED BUTTON OR 'STEM' CARDS TO USE THE APPLICATION )
 
 ## Features
 
@@ -64,9 +66,10 @@ streamlit run DYP_Final/app.py
 ## Usage
 
 ### First-time Setup
-1. Register an account on the welcome page
-2. Set up your learning profile with your learning style and any specific needs
-3. Navigate to the dashboard to view your personalized recommendations
+1. CLICK ON THE GETSTARTED BUTTON OR 'STEM' CARDS TO USE THE APPLICATION  
+2. Register an account on the welcome page
+3. Set up your learning profile with your learning style and any specific needs
+4. Navigate to the dashboard to view your personalized recommendations
 
 ### Content Adaptation
 1. Go to "Adapt Content" in the navigation menu
